@@ -15,6 +15,12 @@
             "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDmsPrq3p9Hj0vTR8VqaEJBHjN76gOLQ_1Wg&s",
             "balance":72.22
         } 
-        
+        {
+            "id": 3,
+            "name": "BARMALEICZIK",
+            "surname": "Onsamyj",
+            "photo_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/95/ed/aa/95edaa1c-d92b-91b8-5a7a-ddce8249a2ee/cover.jpg/1200x1200bf-60.jpg",
+            "balance":10000
+        } 
     
 }
