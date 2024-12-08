@@ -1,5 +1,11 @@
 {
     "users": [
-        
+        {
+            "id": 1,
+            "name": "Nikita",
+            "surname": "Salnyk",
+            "photo_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.grasmere-farm.co.uk%2Fshop%2Fbeef%2Fmince-beef-portion-from-native-breed-beef%2F&psig=AOvVaw27YQBMp-8dtHsOuyU7vYjv&ust=1733736125958000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCuxcHsl4oDFQAAAAAdAAAAABAE",
+            "balance":15000
+        }
     ]
 }
